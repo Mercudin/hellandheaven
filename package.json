@@ -1,0 +1,24 @@
+{
+  "name": "hellandheaven",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal writing site for hellandheaven.com",
+  "license": "MIT",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mercudin/hellandheaven.git"
+  },
+  "homepage": "https://github.com/Mercudin/hellandheaven#readme",
+  "dependencies": {
+    "@astrojs/mdx": "^4.3.14",
+    "@astrojs/rss": "^4.0.19",
+    "astro": "^5.18.2"
+  }
+}

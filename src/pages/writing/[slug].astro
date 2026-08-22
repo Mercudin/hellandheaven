@@ -1,0 +1,39 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+const formatted = post.data.date.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+<Base
+  title={`${post.data.title} — Hell and Heaven`}
+  description={post.data.description}
+  current="writing"
+>
+  <article>
+    <p class="kicker">{formatted}</p>
+    <h1>{post.data.title}</h1>
+    {post.data.description && <p class="lede">{post.data.description}</p>}
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+</Base>

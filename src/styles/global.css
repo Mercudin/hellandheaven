@@ -1,0 +1,109 @@
+:root {
+  --paper: #f6f1e8;
+  --ink: #1a1814;
+  --mute: #6b6458;
+  --rule: #ddd4c4;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: "Source Serif 4", "Iowan Old Style", Georgia, serif;
+  background: var(--paper);
+  color: var(--ink);
+  line-height: 1.55;
+  min-height: 100vh;
+}
+a { color: inherit; text-underline-offset: 0.18em; }
+a:hover { text-decoration-thickness: 2px; }
+.wrap {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2.25rem 1.5rem 4rem;
+}
+header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+.mark {
+  font-family: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+nav {
+  font-family: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", sans-serif;
+  font-size: 0.85rem;
+  display: flex;
+  gap: 1.1rem;
+}
+nav a { text-decoration: none; color: var(--mute); }
+nav a[aria-current="page"], nav a:hover { color: var(--ink); text-decoration: underline; }
+h1 {
+  font-weight: 500;
+  font-size: 2.4rem;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  margin: 0 0 0.6rem;
+}
+.kicker {
+  font-family: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--mute);
+  margin: 0 0 0.75rem;
+}
+.lede {
+  font-size: 1.2rem;
+  color: var(--mute);
+  margin: 0 0 2.5rem;
+}
+.empty {
+  border-top: 1px solid var(--rule);
+  padding-top: 1.25rem;
+  color: var(--mute);
+  font-style: italic;
+}
+.prose p { font-size: 1.05rem; max-width: 65ch; }
+.post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--rule);
+}
+.post-list li {
+  border-bottom: 1px solid var(--rule);
+  padding: 1.1rem 0;
+}
+.post-list a { text-decoration: none; }
+.post-list a:hover { text-decoration: underline; }
+.post-list .title {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.post-list time {
+  display: block;
+  font-family: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", sans-serif;
+  font-size: 0.8rem;
+  color: var(--mute);
+  margin-top: 0.3rem;
+}
+.post-list .desc {
+  color: var(--mute);
+  margin: 0.35rem 0 0;
+}
+article .prose { margin-top: 2rem; }
+footer {
+  margin-top: 4rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  font-family: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", sans-serif;
+  font-size: 0.75rem;
+  color: var(--mute);
+}
