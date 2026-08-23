@@ -19,8 +19,3 @@ I have a whore problem.  Or rather, I have several interrelated whore problems, 
 
 I am going to try to find some proper whores at slutcon, but would love to have someone reach out who is interested in being my whore, and start that negotiation.  I know how to treat a whore (or good girl) right.
 
-I believe the people we currently call trans are those that are far down the body modification path, but not nearly far enough to convince me into believing any have changed into the other sex.
-
-This belief is heretical in some places and might be a scissor question on Glosso, but it's prickly pear summer and Glosso was getting boring.
-
-Change my mind or respect my belief?
