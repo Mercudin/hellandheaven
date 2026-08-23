@@ -107,3 +107,7 @@ footer {
   font-size: 0.75rem;
   color: var(--mute);
 }
+.prose h2 { font-weight: 500; font-size: 1.15rem; margin: 2.25rem 0 0.75rem; }
+.prose h2:first-child { margin-top: 0; }
+.prose p { margin: 0 0 1rem; }
+.bio-bottom { margin-top: min(42vh, 16rem); }
