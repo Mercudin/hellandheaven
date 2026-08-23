@@ -21,6 +21,12 @@ const { Content } = await story.render();
 <Quiet title={story.data.title}>
   <article class="prose">
     <h1>{story.data.title}</h1>
+    {story.slug === 'my-week-with-a-princess' && (
+      <figure class="story-photo">
+        <img src="/dating/me-and-mushroom-princess.png" alt="Me and Mushroom Princess" />
+        <figcaption>Me and Mushroom Princess.</figcaption>
+      </figure>
+    )}
     <Content />
   </article>
 </Quiet>

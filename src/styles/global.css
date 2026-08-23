@@ -111,3 +111,6 @@ footer {
 .prose h2:first-child { margin-top: 0; }
 .prose p { margin: 0 0 1rem; }
 .bio-bottom { margin-top: min(42vh, 16rem); }
+.story-photo { margin: 0 0 2rem; }
+.story-photo img { width: 100%; height: auto; display: block; }
+.story-photo figcaption { font-family: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", sans-serif; font-size: 0.85rem; color: var(--mute); margin-top: 0.5rem; }
