@@ -1,8 +1,6 @@
 ---
 title: "Welcome to Poker Training Night!"
-order: 10
 ---
-
 I'm going out on a limb and trying something new here.  Trying to be the change I want to see in the world.
 
 I want to teach my kids, and especially my son, what it is that I do, which is playing in and hosting a poker game.  I didn't think this was important until recently, but now that I see AI taking over a lot of jobs that I thought would be good for my kids, I want to pivot and teach them something that humans will still value in a world where AI does all the programming.  Specifically, I want to teach them how to deal poker because I think live poker games will persist.

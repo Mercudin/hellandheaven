@@ -1,9 +1,7 @@
 ---
-title: "Consent, a Safeword, a Castle, and a Room (revised t28 version)"
+title: "Consent, a Safeword, a Castle, and a Room"
 order: 2
 ---
-Consent, a Safeword, a Castle, and a Room
-
 I am a sex robot.  Technically, it'd be something like slightly autistic hedonist, but you get my drift.  My sexuality seems to be what happens when you take a kid with a touch of the 'tism (some might say a dollop), give him a high sex drive, and make him hot during puberty.  Now, this was partly my doing as I heard that girls liked muscles so I went and got some, but mostly this was just some lucky genetics.
 
 When I got to finally having the sex (which was awesome!), I decided the best thing I could do for myself was to ensure that the girls who had sex with me wanted to come back for more. I spent a lot of time trying to be good at sex, and here's where women's preferences come into play, and made me the kind of sex robot I am.  

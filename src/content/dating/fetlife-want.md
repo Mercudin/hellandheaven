@@ -1,8 +1,8 @@
 ---
-title: "First FetLife want-piece"
+title: "If I fall in love again"
 order: 7
 ---
-Part of my recent soul-searching has been figuring out just the kind of partner I would like, so I can better draw her to me.  I have had the pleasure and misfortune of finding some incredible women in the past few years, trying to make it work while there's a touch of a sexual disconnect, and making myself and my partner sad at the end when things inevitably don't work.  I'm trying to avoid that this time by being honest with myself about my own needs, recognizing these as needs and not wants, and starting from here.  I don't particularly like using fetlife for dating, but writing in such a way that the person seeking me will find me sounds like just the right way to go about things and this writing is only suitable for fetlife.
+Part of my recent soul-searching has been figuring out just the kind of partner I would like, so I can better draw her to me.  I have had the pleasure and misfortune of finding some incredible women in the past few years, trying to make it work while there's a touch of a sexual disconnect, and making myself and my partner sad at the end when things inevitably don't work.  I'm trying to avoid that this time by being honest with myself about my own needs, recognizing these as needs and not wants, and starting from here.  I don't particularly like using fetlife for dating, but writing in such a way that the person seeking me will find me sounds like just the right way to go about things.
 
 I am open to falling in love again.  I have room for someone special in my life, and I'm currently taking care of myself so that I'll be ready when she finds me.
 

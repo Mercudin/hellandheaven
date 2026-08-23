@@ -2,9 +2,11 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
-const posts = (await getCollection('posts')).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
-);
+const posts = (await getCollection('posts')).sort((a, b) => {
+  const ad = a.data.date?.valueOf() ?? 0;
+  const bd = b.data.date?.valueOf() ?? 0;
+  return bd - ad;
+});
 ---
 <Base title="Hell and Heaven" description="Nothing published yet." current="home">
   <p class="kicker">Hell and Heaven</p>
@@ -18,13 +20,15 @@ const posts = (await getCollection('posts')).sort(
         <li>
           <a href={`/writing/${post.slug}/`}>
             <span class="title">{post.data.title}</span>
-            <time datetime={post.data.date.toISOString()}>
-              {post.data.date.toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric',
-              })}
-            </time>
+            {post.data.date && (
+              <time datetime={post.data.date.toISOString()}>
+                {post.data.date.toLocaleDateString('en-US', {
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric',
+                })}
+              </time>
+            )}
           </a>
           {post.data.description && <p class="desc">{post.data.description}</p>}
         </li>

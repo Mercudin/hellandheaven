@@ -1,8 +1,7 @@
 ---
-title: "tl;dr Looking for a partner who would attend RMN"
+title: "Looking for a partner who would attend RMN"
 order: 8
 ---
-
 I went to an RMN party in early 2026, and I honestly wasn't quite ready for it. I had been blindsided by a life event in May of 2025 and was still putting my life back together, but I wasn't going to pass up the opportunity to attend.  It didn't go as well as I'd hoped.
 
 It wasn't bad by any stretch, but it was different enough from my previous experiences that I had trouble getting into the flow.  Looking back at it, the thing that I had the most trouble with was being aggressive with someone who hadn't shown me enough interest.

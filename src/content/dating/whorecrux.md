@@ -2,7 +2,6 @@
 title: "Whorecrux"
 order: 9
 ---
-
 I have a whore problem.  Or rather, I have several interrelated whore problems, forming something of a whorecrux:
 
 - I like whores, or at least the women who like being called whores and used like whores.  This is the kind of primary partner I would like to find.  I've never had a partner who liked being called a whore (or good girl) who wasn't a good match, sexually.
@@ -18,4 +17,3 @@ I have a whore problem.  Or rather, I have several interrelated whore problems, 
 - I want to find a smart whore to spend time with me and my kids.  My kids are outlier levels of intelligent, and I'd like to find another outlier so that we can have interesting conversations with them and around them, or get a decent game of Set.
 
 I am going to try to find some proper whores at slutcon, but would love to have someone reach out who is interested in being my whore, and start that negotiation.  I know how to treat a whore (or good girl) right.
-

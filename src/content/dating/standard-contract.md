@@ -1,9 +1,7 @@
 ---
-title: "Standard Contract (public)"
+title: "Standard Contract"
 order: 5
 ---
-tandard Contract (public)
-
 I want someone to serve me.  These are my terms.
 
 This contract was developed because our institutions are broken.  There is very little sense left in dating in the hopes of marriage.  I want someone to serve me, and I want to take very good care of the person who takes on this role, now and after I'm gone.
@@ -16,7 +14,6 @@ In the ideal scenario, my partner won't require money at all.  A partner living 
 
 In return, I expect such a partner to take care of me and the home.  Details of that are negotiable, but this will be one of the ways in which you serve.
 
-Full details are available in the Friends Only version of this writing.
 
 Standard Contract (friends only)
 
