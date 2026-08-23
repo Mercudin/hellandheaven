@@ -1,0 +1,26 @@
+---
+import Quiet from '../../layouts/Quiet.astro';
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const stories = await getCollection('dating');
+  return stories.map((story) => ({
+    params: { slug: story.slug },
+    props: { story },
+  }));
+}
+
+interface Props {
+  story: CollectionEntry<'dating'>;
+}
+
+const { story } = Astro.props;
+const { Content } = await story.render();
+---
+<Quiet title={story.data.title}>
+  <article class="prose">
+    <h1>{story.data.title}</h1>
+    <Content />
+  </article>
+</Quiet>
