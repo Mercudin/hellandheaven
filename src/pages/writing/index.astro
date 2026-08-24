@@ -8,12 +8,14 @@ const posts = (await getCollection('posts')).sort((a, b) => {
   return bd - ad;
 });
 ---
-<Base title="Writing — Hell and Heaven" description="No posts yet." current="writing">
+<Base title="Writing — Hell and Heaven" description={posts.length === 0 ? "No posts yet." : "Writing."} current="writing">
   <p class="kicker">Index</p>
   <h1>Writing</h1>
-  <p class="lede">No posts yet.</p>
   {posts.length === 0 ? (
-    <div class="empty">This list stays empty until there is a finished piece.</div>
+    <>
+      <p class="lede">No posts yet.</p>
+      <div class="empty">This list stays empty until there is a finished piece.</div>
+    </>
   ) : (
     <ul class="post-list">
       {posts.map((post) => (
