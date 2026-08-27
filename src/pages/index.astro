@@ -8,10 +8,9 @@ const posts = (await getCollection('posts')).sort((a, b) => {
   return bd - ad;
 });
 ---
-<Base title="Hell and Heaven" description="Nothing published yet." current="home">
+<Base title="Hell and Heaven" description="Writing." current="home">
   <p class="kicker">Hell and Heaven</p>
   <h1>Writing.</h1>
-  <p class="lede">Nothing published yet.</p>
   {posts.length === 0 ? (
     <div class="empty">When a piece is ready, it will show up here.</div>
   ) : (
