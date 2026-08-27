@@ -1,17 +1,13 @@
 ---
-title: "Team Humanity and Real Money"
+title: "Team Humanity and That Costco Life"
 ---
 
-Nudge humanity away from the bad terrible Nash equilibrium of fake money and corrupt governance to the much better equilibrium of sound money and transparent algorithmic governance without the need for elected officials.
+Part of my new morality is being decidedly on team humanity.
 
-Resume running a circus.
+The future is already here. It's just not equally distributed. We already produce enough. If we get the mix of robotics and AI just right, we can lift everyone up without anyone having to drop too far.
 
-Find a lifelong companion, but for reals this time.
+That's the nudge. Off the Nash equilibrium of fake money and corrupt governance. Onto sound money and transparent algorithmic governance, without elected officials. Smart contracts for resource allocation, probably. Free network association. Voluntary geographic association into mostly homogenous societies, because people will choose to live among those who share their values.
 
-Part of my new morality is being decidedly on team humanity.  I'm pretty convinced that 'the future is already here, it's just not equally distributed.'  Meaning we already produce enough, and if we get the mix of robotics and AI just right, we can really lift everyone up without anyone having to drop too far.
+Team Humanity succeeds when those things are true.
 
-Team Humanity succeeds when we have real money, transparent governance with no need for elected representitives (and probably using smart contracts for resource allocation), free network association, and voluntary geographic association into mostly homogenous societies, as people will choose to live among those who share their values.
-
-That Costco Life
-
-For me, the balancing point is a Costco/Target lifestyle.  As a species, we've gotten so good at manufacturing that you can find really high quality stuff at the Costco/Target level.  Sure, there's things that you can a good deal more for to get a small bump in quality, but this level really hits the sweet spot of price to product.  And I'm willing to drop down to this lifestyle if it means we can also raise everyone else up to this lifestyle.  If I'm purchasing something beyond this level, there's got to be a really good reason for it.
+The balancing point, for me, is a Costco/Target lifestyle. We've gotten so good at manufacturing that you can find really high quality stuff at that level. You can pay a good deal more for a small bump in quality. That isn't the sweet spot. Costco/Target is. I'm willing to live at this level if it means we can also raise everyone else up to it. If I'm buying something beyond this, there's got to be a really good reason for it.
