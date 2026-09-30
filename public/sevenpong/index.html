@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta
       name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+      content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
     />
     <meta name="robots" content="noindex" />
     <meta name="theme-color" content="#F6F2EA" />
@@ -21,13 +21,16 @@
       body,
       #root {
         height: 100%;
+        height: 100dvh;
         width: 100%;
         margin: 0;
         background: #f6f2ea;
       }
       html,
-      body {
+      body,
+      #root {
         position: fixed;
+        inset: 0;
         overflow: hidden;
         overscroll-behavior: none;
         touch-action: none;
@@ -35,6 +38,8 @@
         -webkit-user-select: none;
         -webkit-touch-callout: none;
         -webkit-tap-highlight-color: transparent;
+        -webkit-text-size-adjust: 100%;
+        text-size-adjust: 100%;
       }
       #root {
         display: flex;
@@ -46,6 +51,6 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
-  <script src="/sevenpong/_expo/static/js/web/index-27fa5e19ab80c355cdfe0aceb3379b05.js" defer></script>
+  <script src="/sevenpong/_expo/static/js/web/index-435eac4b5290af0b235c1ab75ada0b06.js" defer></script>
 </body>
 </html>
