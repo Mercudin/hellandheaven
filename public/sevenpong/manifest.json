@@ -1,6 +1,6 @@
 {
-  "name": "Sevenpong",
-  "short_name": "Sevenpong",
+  "name": "7Pong",
+  "short_name": "7Pong",
   "display": "standalone",
   "orientation": "landscape",
   "theme_color": "#F6F2EA",
@@ -9,8 +9,8 @@
   "scope": "/sevenpong/",
   "icons": [
     {
-      "src": "/sevenpong/apple-touch-icon.png",
-      "sizes": "180x180",
+      "src": "/sevenpong/icon-192.png",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
