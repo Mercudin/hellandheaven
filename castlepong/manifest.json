@@ -1,0 +1,23 @@
+{
+  "name": "Castle Pong",
+  "short_name": "Castle Pong",
+  "display": "standalone",
+  "orientation": "landscape",
+  "start_url": "/castlepong/",
+  "scope": "/castlepong/",
+  "background_color": "#79D0FF",
+  "theme_color": "#79D0FF",
+  "icons": [
+    {
+      "src": "/castlepong/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/castlepong/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

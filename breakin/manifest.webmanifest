@@ -1,0 +1,24 @@
+{
+  "name": "Break-in",
+  "short_name": "Break-in",
+  "description": "Two-player Pong with a wall of blocks behind each paddle.",
+  "start_url": "/breakin/",
+  "scope": "/breakin/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/breakin/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/breakin/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
