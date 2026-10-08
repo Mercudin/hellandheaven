@@ -1,0 +1,37 @@
+---
+import Base from '../../layouts/Base.astro';
+
+// Descriptions are taken verbatim from each game's own bundle
+// (Castle Pong: <meta name="description">; Break-in: manifest.webmanifest).
+// 7Pong ships no description, so none is shown.
+const games = [
+  { name: '7Pong', href: '/sevenpong/', icon: '/sevenpong/icon-192.png' },
+  {
+    name: 'Castle Pong',
+    href: '/castlepong/',
+    icon: '/castlepong/apple-touch-icon.png',
+    description: 'Two players, one screen. Knock the crown off the other castle.',
+  },
+  {
+    name: 'Break-in',
+    href: '/breakin/',
+    icon: '/breakin/apple-touch-icon.png',
+    description: 'Two-player Pong with a wall of blocks behind each paddle.',
+  },
+];
+---
+<Base title="Games — Hell and Heaven" description="Games." current="games">
+  <p class="kicker">Index</p>
+  <h1>Games</h1>
+  <ul class="post-list game-list">
+    {games.map((game) => (
+      <li>
+        <a href={game.href}>
+          <img class="game-icon" src={game.icon} alt="" width="40" height="40" loading="lazy" />
+          <span class="title">{game.name}</span>
+        </a>
+        {game.description && <p class="desc">{game.description}</p>}
+      </li>
+    ))}
+  </ul>
+</Base>
